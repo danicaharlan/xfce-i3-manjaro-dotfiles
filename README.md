@@ -1,6 +1,9 @@
 # xfce-i3-manjaro-dotfiles
 dotfiles for my work-in-progress manjaro xfce4 install with i3-gaps as the wm
 
+![rice-2021-07-20](https://user-images.githubusercontent.com/61087445/126407925-925af0e2-9126-4b9e-8f3e-63c3aef797c4.jpg)
+
+
 dependencies:
   i3-gaps nitrogen picom
   
